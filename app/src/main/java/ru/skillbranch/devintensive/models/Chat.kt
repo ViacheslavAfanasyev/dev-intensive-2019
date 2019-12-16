@@ -1,5 +1,7 @@
 package ru.skillbranch.devintensive.Models
 
+import ru.skillbranch.devintensive.models.BaseMessage
+
 class Chat(
         val id:String,
         val members:MutableList<User> = mutableListOf(),

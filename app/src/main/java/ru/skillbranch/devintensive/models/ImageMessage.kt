@@ -1,5 +1,6 @@
 package ru.skillbranch.devintensive.Models
 
+import ru.skillbranch.devintensive.models.BaseMessage
 import java.util.*
 
 class ImageMessage(
